@@ -10,7 +10,7 @@ body{
 @media screen and (max-width:812px){
    .box{
     margin-top: -20px; 
-    min-height: 775px;
+    min-height: 700px;
    }
 
 }
